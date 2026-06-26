@@ -1,4 +1,4 @@
-# Fundamentos de Cloud com AWS 🚀
+# Fundamentos de Cloud com AWS
 
 E aí! Esse repositório foi criado para organizar e compartilhar tudo o que aprendi durante o **Bootcamp GFT - Fundamentos de Cloud com AWS** na DIO. Aqui estão as minhas anotações, os conceitos que estudei e os resumos práticos de cada módulo para fixar o conhecimento e servir de consulta futura.
 
@@ -6,7 +6,7 @@ O objetivo principal foi entender a infraestrutura da AWS, como os serviços se 
 
 ---
 
-## 📖 O que foi aprendido por módulo
+## O que foi aprendido por módulo
 
 ### 1. Introdução à AWS e Conceitos Básicos
 * **O que é Nuvem:** Entendimento global de computação em nuvem, modelos de serviço (IaaS, PaaS, SaaS) e modelos de implantação.
@@ -39,7 +39,7 @@ Entender como os dados trafegam com segurança:
 
 ---
 
-## 🛠️ Tecnologias e Ferramentas Exploradas
+## Tecnologias e Ferramentas Exploradas
 * **AWS Console** (EC2, S3, Lambda, VPC, RDS, DynamoDB)
 * **Segurança em Nuvem** (IAM, Security Groups)
 * **Arquitetura Serverless**
