@@ -4,7 +4,6 @@ E aí! Esse repositório foi criado para organizar e compartilhar tudo o que apr
 
 O objetivo principal foi entender a infraestrutura da AWS, como os serviços se conectam e como subir recursos na nuvem de forma segura, eficiente e controlando os custos.
 
----
 
 ## O que foi aprendido por módulo
 
@@ -37,7 +36,6 @@ Entender como os dados trafegam com segurança:
 * **Ciclo de Vida do Armazenamento:** Diferença prática entre o Amazon S3 (arquivos acessados a qualquer momento) e o Amazon Glacier (armazenamento de arquivamento frio, muito mais barato, voltado para dados que raramente mexemos).
 * **Aplicações Práticas:** Integração dos conceitos de nuvem com código (como JavaScript) para criar arquiteturas modernas e prontas para o mercado industrial.
 
----
 
 ## Tecnologias e Ferramentas Exploradas
 * **AWS Console** (EC2, S3, Lambda, VPC, RDS, DynamoDB)
